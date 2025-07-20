@@ -6,7 +6,7 @@ It includes useful plugins for session management and a beautiful status bar, al
 
 ---
 
-## ✨ Features
+## Features
 
 - **Session Persistence**: Automatically saves and restores your tmux environment.
 - **Catppuccin Theme**: A modern, eye-friendly theme (using the "Frappe" variant).
